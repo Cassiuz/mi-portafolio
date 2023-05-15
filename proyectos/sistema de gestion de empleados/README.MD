@@ -16,3 +16,10 @@ CARACTERISITICAS DEL PROYECTO:
 6. Seguridad de acceso: Asegura que solo los usuarios autorizados puedan acceder y manipular la información de la base de datos. Puedes implementar autenticación y roles de usuario para lograr esto.
 
 7. Interfaz de usuario amigable: Diseña una interfaz de usuario intuitiva y atractiva que facilite la interacción con la base de datos y sus funcionalidades.
+
+TECNOLOGÍAS UTILIZADAS:
+1. Lenguaje de programación: utilizamos Python
+
+2. Base de Datos(BBDD): PostreSQL
+
+3. Aplicación web: utilizamos HTML, CSS, Javascript usando a Django como Framework.
