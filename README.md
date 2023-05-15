@@ -28,7 +28,7 @@ Estos lenguajes me permiten abordar una amplia gama de proyecto y adaptarme a di
 
 Aparte de mi experiencia técnica, me considero una persona sociable y siempre busco crear un ambiente agradable con mis compañeros de trabajo. Valorizo el respeto mutuo y la buena comunicación como fundamentos para un trabajo en equipo exitoso. Disfruto colaborando con otros, compartiendo conocimientos y aprendiendo de las experiencias de los demás.
 
-Ademas, me apasiona la lectura y encuentro inspiración en libros que amplíen mi conocimiento técnico. Como entusiasta de la música del rock alternativo, disfruto de la energía creativa que me proporciona para abordar nuevos desafíos.
+Además, me apasiona la lectura y encuentro inspiración en libros que amplíen mi conocimiento técnico. Como entusiasta de la música del rock alternativo, disfruto de la energía creativa que me proporciona para abordar nuevos desafíos.
 
 Mi objetivo es seguir creciendo como profesional en el campo de la ingeniería de sofware, trabajando en proyecto desafiantes que involucren inteligencia artifical y tecnologías emergentes. Busco oportunidades que me permitan aplicar mis habilidades técnicas y blandas para crear soluciones innovadoras y promover un ambiente de trabajo positivo.
 
